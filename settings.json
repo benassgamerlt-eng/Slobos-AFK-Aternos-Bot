@@ -8,7 +8,7 @@
   "server": {
     "ip": "AlutisMC.aternos.me",
     "port": 58807,
-    "version": "false",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
